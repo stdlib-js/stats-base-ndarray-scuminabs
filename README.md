@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import scuminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-scuminabs@esm/index.mjs';
+import scuminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-scuminabs@v0.1.1-esm/index.mjs';
 ```
 
 #### scuminabs( arrays )
@@ -110,7 +110,7 @@ import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-
 import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ctor@esm/index.mjs';
 import zerosLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-zeros-like@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
-import scuminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-scuminabs@esm/index.mjs';
+import scuminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-scuminabs@v0.1.1-esm/index.mjs';
 
 var xbuf = discreteUniform( 10, -50, 50, {
     'dtype': 'float32'
